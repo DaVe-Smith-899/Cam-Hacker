@@ -6,7 +6,7 @@
 
 >`pkg install git -y`
 
->`git clone http://github.com/DaVe-Smith-89/Cam-Hacker.git`
+>`git clone http://github.com/DaVe-Smith-899/Cam-Hacker.git`
 
 >`cd Cam-Hacker`
 
